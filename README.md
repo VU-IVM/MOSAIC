@@ -11,11 +11,8 @@ This repository contains the scripts to prepare and run the GTSM models using OM
 
 ### Installation instructions
 #### Dependencies
-
-|                |                                                                                            |
-| -------------- | ------------------------------------------------------------------------------------------ |
-| amuse          | https://github.com/amusecode/amuse                                                         |
-| omuse          | https://github.com/omuse-geoscience/omuse.                                                 |
+* AMUSE: https://github.com/amusecode/amuse                              
+* OMUSE: https://github.com/omuse-geoscience/omuse.                                  
 
 #### Installation
 
