@@ -1,0 +1,19 @@
+scripts/gtsm/general/model_template
+scripts/gtsm/general/model_refined
+scripts/gtsm/general/old_versions
+scripts/gtsm_validation
+scripts/gtsm/grid_refinement
+scripts/gtsm/output_resolution
+scripts/case_studies_old
+scripts/gtsm_validation
+data/bathtub
+data/gtsm/spiderwebs
+data/gridrefinement
+data/gtsm_validation
+*.out
+*.png
+*.gz
+*.tif
+*.sif
+
+# write here explanation
