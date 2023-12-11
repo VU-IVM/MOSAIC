@@ -9,7 +9,10 @@ The data folder contains input data for GTSM.
 The Global Tide and Surge Model (GTSM) is ran with the software environment OMUSE.
 This repository contains the scripts to prepare and run the GTSM models using OMUSE, and the scripts to plot the results presented in the paper.
 
-### Installation instructions
+### GTSM Installation instructions
+* Delft3d Flexible Mesh: https://oss.deltares.nl/web/delft3dfm/get-started
+
+### OMUSE Installation instructions
 #### Dependencies
 * AMUSE: https://github.com/amusecode/amuse                              
 * OMUSE: https://github.com/omuse-geoscience/omuse.                                  
