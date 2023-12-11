@@ -2,7 +2,8 @@
 This repository contains the code to reproduce the paper:
 XXX
 
-It contains two folders, one for the storm surge modelling (gtsm), and one for the flood modelling (hydromt-sfincs).
+The scripts folder contains the scripts for the storm surge modelling (GTSM) and for the flood modelling (HydroMT-SFINCS).
+The data folder contains input data for GTSM.
 
 ## GTSM: Storm Surge Modelling
 The Global Tide and Surge Model (GTSM) is ran with the software environment OMUSE.
